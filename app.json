@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tugas_pam_kapal",
+    "slug": "tugas_pam_kapal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
